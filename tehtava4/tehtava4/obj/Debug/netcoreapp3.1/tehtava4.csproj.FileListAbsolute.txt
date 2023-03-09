@@ -1,0 +1,25 @@
+D:\OneDrive - Satakunnan ammattikorkeakoulu Oy\Kurssit\edistynyt c#\tehtava4\tehtava4\bin\Debug\netcoreapp3.1\tehtava4.exe
+D:\OneDrive - Satakunnan ammattikorkeakoulu Oy\Kurssit\edistynyt c#\tehtava4\tehtava4\bin\Debug\netcoreapp3.1\tehtava4.deps.json
+D:\OneDrive - Satakunnan ammattikorkeakoulu Oy\Kurssit\edistynyt c#\tehtava4\tehtava4\bin\Debug\netcoreapp3.1\tehtava4.runtimeconfig.json
+D:\OneDrive - Satakunnan ammattikorkeakoulu Oy\Kurssit\edistynyt c#\tehtava4\tehtava4\bin\Debug\netcoreapp3.1\tehtava4.runtimeconfig.dev.json
+D:\OneDrive - Satakunnan ammattikorkeakoulu Oy\Kurssit\edistynyt c#\tehtava4\tehtava4\bin\Debug\netcoreapp3.1\tehtava4.dll
+D:\OneDrive - Satakunnan ammattikorkeakoulu Oy\Kurssit\edistynyt c#\tehtava4\tehtava4\bin\Debug\netcoreapp3.1\tehtava4.pdb
+D:\OneDrive - Satakunnan ammattikorkeakoulu Oy\Kurssit\edistynyt c#\tehtava4\tehtava4\obj\Debug\netcoreapp3.1\tehtava4.csprojAssemblyReference.cache
+D:\OneDrive - Satakunnan ammattikorkeakoulu Oy\Kurssit\edistynyt c#\tehtava4\tehtava4\obj\Debug\netcoreapp3.1\tehtava4.AssemblyInfoInputs.cache
+D:\OneDrive - Satakunnan ammattikorkeakoulu Oy\Kurssit\edistynyt c#\tehtava4\tehtava4\obj\Debug\netcoreapp3.1\tehtava4.AssemblyInfo.cs
+D:\OneDrive - Satakunnan ammattikorkeakoulu Oy\Kurssit\edistynyt c#\tehtava4\tehtava4\obj\Debug\netcoreapp3.1\tehtava4.dll
+D:\OneDrive - Satakunnan ammattikorkeakoulu Oy\Kurssit\edistynyt c#\tehtava4\tehtava4\obj\Debug\netcoreapp3.1\tehtava4.pdb
+C:\Users\Jesse\Documents\GitHub\Csharp\tehtava4\tehtava4\bin\Debug\netcoreapp3.1\tehtava4.exe
+C:\Users\Jesse\Documents\GitHub\Csharp\tehtava4\tehtava4\bin\Debug\netcoreapp3.1\tehtava4.deps.json
+C:\Users\Jesse\Documents\GitHub\Csharp\tehtava4\tehtava4\bin\Debug\netcoreapp3.1\tehtava4.runtimeconfig.json
+C:\Users\Jesse\Documents\GitHub\Csharp\tehtava4\tehtava4\bin\Debug\netcoreapp3.1\tehtava4.runtimeconfig.dev.json
+C:\Users\Jesse\Documents\GitHub\Csharp\tehtava4\tehtava4\bin\Debug\netcoreapp3.1\tehtava4.dll
+C:\Users\Jesse\Documents\GitHub\Csharp\tehtava4\tehtava4\bin\Debug\netcoreapp3.1\tehtava4.pdb
+C:\Users\Jesse\Documents\GitHub\Csharp\tehtava4\tehtava4\obj\Debug\netcoreapp3.1\tehtava4.csproj.AssemblyReference.cache
+C:\Users\Jesse\Documents\GitHub\Csharp\tehtava4\tehtava4\obj\Debug\netcoreapp3.1\tehtava4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesse\Documents\GitHub\Csharp\tehtava4\tehtava4\obj\Debug\netcoreapp3.1\tehtava4.AssemblyInfoInputs.cache
+C:\Users\Jesse\Documents\GitHub\Csharp\tehtava4\tehtava4\obj\Debug\netcoreapp3.1\tehtava4.AssemblyInfo.cs
+C:\Users\Jesse\Documents\GitHub\Csharp\tehtava4\tehtava4\obj\Debug\netcoreapp3.1\tehtava4.csproj.CoreCompileInputs.cache
+C:\Users\Jesse\Documents\GitHub\Csharp\tehtava4\tehtava4\obj\Debug\netcoreapp3.1\tehtava4.dll
+C:\Users\Jesse\Documents\GitHub\Csharp\tehtava4\tehtava4\obj\Debug\netcoreapp3.1\tehtava4.pdb
+C:\Users\Jesse\Documents\GitHub\Csharp\tehtava4\tehtava4\obj\Debug\netcoreapp3.1\tehtava4.genruntimeconfig.cache
